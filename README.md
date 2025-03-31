@@ -26,5 +26,5 @@ A aula 01 trata de uma revisão sobre teoria dos erros, origens e classificaçã
 *Jupyter Notebook 01*
 [![Abrir Aula 1 no Colab](https://colab.research.google.com/assets/colab-badge.svg)][def5]
 
-[def4]:https://colab.research.google.com/github/Alixandrini/ENGJ22/blob/main/Aula%202/Ajust_B_aulaMMQ.ipynb
-[def5]:https://github.com/Alixandrini/ENGJ22/blob/main/Aula%202/Aula%202%20-%20Lei%20de%20Propaga%C3%A7%C3%A3o%20das%20Covari%C3%A2ncias.pdf
+[def5]:https://colab.research.google.com/github/Alixandrini/ENGJ22/blob/main/Aula%202/Ajust_B_aulaMMQ.ipynb
+[def4]:https://github.com/Alixandrini/ENGJ22/blob/main/Aula%202/Aula%202%20-%20Lei%20de%20Propaga%C3%A7%C3%A3o%20das%20Covari%C3%A2ncias.pdf
